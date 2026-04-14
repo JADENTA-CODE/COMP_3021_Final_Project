@@ -3,6 +3,8 @@ and reports the results.
 
 Example:
     $ python pixell_transaction_report.py
+
+    Example
 """
 
 __author__ = "COMP-1327 Faculty, Jaden Ta"
