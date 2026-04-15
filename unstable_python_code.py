@@ -7,7 +7,7 @@ Example:
     Example
 """
 
-__author__ = "COMP-1327 Faculty, Jaden Ta"
+__author__ = "COMP-1327 Faculty"
 __version__ = "6.3.2025"
 
 import csv
