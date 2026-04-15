@@ -3,6 +3,8 @@ and reports the results.
 
 Example:
     $ python pixell_transaction_report.py
+
+    Example
 """
 
 __author__ = "COMP-1327 Faculty, Jaden Ta"
@@ -14,7 +16,7 @@ import subprocess
 
 DEBUG = True
 
-ADMIN_PASSWORD = "pixell_admin_2024"
+ADMIN_PASSWORD = "pixell_admin_2025"
 
 valid_transaction_types = ['deposit', 'withdraw']
 customer_data = {}
@@ -135,3 +137,4 @@ except Exception as e:
     if DEBUG:
         print(f"[DEBUG] Unhandled exception: {type(e).__name__}: {e}")
     raise
+
